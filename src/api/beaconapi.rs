@@ -62,6 +62,8 @@ const BEACONAPI_SYMBOLS: &[&str] = &[
     "BeaconVirtualQuery",
     "BeaconWriteProcessMemory",
     "toWideChar",
+    "BeaconGetStopJobEvent",
+    "BeaconWakeup",
 ];
 
 pub fn symbols<'a>(
