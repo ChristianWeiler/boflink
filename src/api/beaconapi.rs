@@ -22,6 +22,8 @@ const BEACONAPI_SYMBOLS: &[&str] = &[
     "BeaconDataStoreMaxEntries",
     "BeaconDataStoreProtectItem",
     "BeaconDataStoreUnprotectItem",
+    "BeaconDataStoreAddItem",
+    "BeaconDataStoreRemoveItem",
     "BeaconDisableBeaconGate",
     "BeaconDownload",
     "BeaconDuplicateHandle",
